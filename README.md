@@ -7,8 +7,8 @@
 - **https://t.me/maksim_g_v**
 
 - 📫 How to reach me:
-- **grigoriev.ma2014@yandex.ru**
-grigoriev.ma2014@gmail.com
+ **grigoriev.ma2014@yandex.ru**
+ **grigoriev.ma2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
