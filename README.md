@@ -3,7 +3,8 @@
 <h3 align="center">I'm Frontend Developer</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 📲 Connect with me: **https://t.me/maksim_g_v**
+- 📲 Connect with me:
+- **https://t.me/maksim_g_v**
 
 - 📫 How to reach me **grigoriev.ma2014@yandex.ru / grigoriev.ma2014@gmail.com**
 
